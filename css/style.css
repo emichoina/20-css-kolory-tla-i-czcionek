@@ -1,0 +1,42 @@
+body {
+    background-color: aqua;
+}
+
+h1 {
+    background-color:bisque;
+}
+
+h2 {
+    background-color:coral;
+}
+
+p {
+    background-color:crimson;
+}
+
+ol {
+    background-color:darkgoldenrod;
+}
+
+li {
+    background-color:darkgrey;
+}
+.jeden {
+    color:darkmagenta;
+}
+
+.dwa {
+    color:darkorchid;
+}
+
+.trzy {
+    color:deeppink;
+}
+
+.cztery {
+    color:forestgreen;
+}
+
+.piec {
+    color:hotpink;
+}
